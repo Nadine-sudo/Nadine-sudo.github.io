@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-  title                    : "Qijie He/Personal Website"
+title                    : "Qijie He/Personal Website"
 title_separator          : "-"
 name                     : &name "Qijie He"
 description              : &description "Exert oneself to the utmost"
