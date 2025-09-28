@@ -21,7 +21,7 @@ repository               : "Nadine-sudo/Nadine-sudo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Qijie He"
   pronouns         : # example: "she/her"  
   bio              : "Exert oneself to the utmost, and leave the rest to providence"
